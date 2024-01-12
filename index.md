@@ -14,6 +14,8 @@ Overall this helps to take out the need to do Systems Administration and just fo
 | Name          | us-east-1             | Link                                           |
 |:--------------|:----------------------|:-----------------------------------------------|
 | Napping-1.0.1 | ami-0c0faff04fdfb08cd | https://www.vulnhub.com/entry/napping-101,752/ |
+| Noob          | ami-0a7e0f9dad851608f | https://vulnhub.com/entry/noob-1,746/          |
+| Red           | ami-06c2698fc02eda80c | https://vulnhub.com/entry/red-1,753/           |
 
 ## Request an AMI
 If there is a specific AMI that you would like to see open an issue at the Github link above. That way we can evaluate and work on getting it added.
